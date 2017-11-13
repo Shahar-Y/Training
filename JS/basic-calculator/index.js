@@ -1,4 +1,5 @@
-
+//this is an excersise in JS from w3 schools: https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
+//Ex num. 10.
 
 //I know the code is duplicated and honestly it makes me sick to see it,
 // but im feeling lazy right now and the project is very simple so meh.
